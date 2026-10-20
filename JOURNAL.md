@@ -16,7 +16,7 @@
 
 1. [2026-10-19 – Hi hackclub officials or re viewers , Here i was building my plan for the drumPad , selecting modules which will work or not and brainstormed through every connections and line of code ii need to use](#2026-10-19-hi-hackclub-officials-or-re-viewers-here-i-was-bu)
 2. [2026-10-19 – Hi hackclub members or reviewers , Here i made the PCB schematic for my DRUMpad and searched up all the components , How the device or the drums  will work , made a rough BOM , checked all components](#2026-10-19-hi-hackclub-members-or-reviewers-here-i-made-the-)
-3. [2026-10-20 – Here in this session , i finalized the schematic then i named each PAD number in silkscreen , arranged the resistors then i started routing the powerlines first with 0.6mm copper lines , after finishi](#2026-10-20-here-in-this-session-i-finalized-the-schematic-th)
+3. [2026-10-20 – Work session](#2026-10-20-work-session)
 
 ## Design
 
@@ -62,20 +62,8 @@ Hi hackclub members or reviewers , Here i made the PCB schematic for my DRUMpad 
 
 [Timelapse](https://lookout.hackclub.com/api/media/76d8bf6e-9c46-42ba-a372-888b520c1c2d/video.mp4)
 
-### 2026-10-20 – Here in this session , i finalized the schematic then i named each PAD number in silkscreen , arranged the resistors then i started routing the powerlines first with 0.6mm copper lines , after finishi
+### 2026-10-20 – Work session
 
 **1.03h**
-
-Here in this session , i finalized the schematic then i named each PAD number in silkscreen , arranged the resistors then i started routing the powerlines first with 0.6mm copper lines , after finishing that , i went for the data signal lines with of width 0.254mm copper traces  , then i routed the board . After finishing my routing i realized that the user contributed footprint of i2s amplifier module (MAX98357A) has a DRC problem in its own symbol , so i used a male header connector of 7 pins and renamed it to the pin layout and used it instead , then i achieved DRC 0.
-
-![Screenshot 2026-10-20 141023](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/c3b08921ccfde328e2f76d2158e3ec94cff27c801ccb42eb43155b759603d0fe.png)
-
-![Screenshot 2026-10-20 141036](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/57baf552cd72006acc78104efd45a63ada9214dfd3d284684d79faef54a8ffac.png)
-
-![Screenshot 2026-10-20 133328](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/71798f3f8523f86179ecc770053349cabc7f8d48a01d25f5b93e430596ed3b5a.png)
-
-![Screenshot 2026-10-20 133623](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/c30822d15d41601d6f60b2db6c4c360f075a162c6a10f58d49ff8a5c4fb36ca3.png)
-
-![Screenshot 2026-10-20 141012](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/ba127efaf3b1ccd6abeb6991db9775d66784ba2b08ac780e2eebab9c9459743e.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/3ae68035-8773-406b-9e6f-6c0a01b0fda1/video.mp4)
