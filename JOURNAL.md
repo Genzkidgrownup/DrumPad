@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-19 – Hi hackclub officials or re viewers , Here i was building my plan for the drumPad , selecting modules which will work or not and brainstormed through every connections and line of code ii need to use](#2026-10-19-hi-hackclub-officials-or-re-viewers-here-i-was-bu)
-2. [2026-10-19 – Hi hackclub members or reviewers , Here i made the PCB schematic for my DRUMpad and searched up all the components , How the device or the drums  will work , made a rough BOM , checked all components](#2026-10-19-hi-hackclub-members-or-reviewers-here-i-made-the-)
+2. [2026-10-19 – Work session](#2026-10-19-work-session)
 3. [2026-10-20 – Work session](#2026-10-20-work-session)
 
 ## Design
@@ -32,33 +32,9 @@ Hi hackclub officials or re viewers , Here i was building my plan for the drumPa
 
 [Timelapse](https://lookout.hackclub.com/api/media/fe629d39-2085-4051-95e1-6758de565b3d/video.mp4)
 
-### 2026-10-19 – Hi hackclub members or reviewers , Here i made the PCB schematic for my DRUMpad and searched up all the components , How the device or the drums  will work , made a rough BOM , checked all components
+### 2026-10-19 – Work session
 
 **1.57h**
-
-Hi hackclub members or reviewers , Here i made the PCB schematic for my DRUMpad and searched up all the components , How the device or the drums  will work , made a rough BOM , checked all components match their footprint or not. Made the board outline , placed all components in it.
-
-![Screenshot 2026-10-20 003151](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/67be80f3c44e1283f3d6a250bf6f8d1e9f58af189acf520834cbf7359a868d88.png)
-
-![Screenshot 2026-10-20 003501](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/4d1a20c8a87d5d3c4c74a4ac616ae93a407c4089337fed753bb731d25f41eb3d.png)
-
-![Screenshot 2026-10-20 003943](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/0ae050f332c455af33791ab46366a2c80a593f7933009d913f316603f65671a1.png)
-
-![Screenshot 2026-10-20 004200](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/6d3f656e62b12a22631ff99ecf09e115da46472141fd2f33cc0513205a1d5a5b.png)
-
-![Screenshot 2026-10-20 005131](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/147ff011c8bc08908db6595e0c623d2dc67e56523cf378aee2b25c646274183e.png)
-
-![Screenshot 2026-10-20 005624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/6539cb3a4140454708802974bafa38f62c517dfef6366af7f05816cb9a35ee67.png)
-
-![Screenshot 2026-10-20 005642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/446b1c01e0a00963d26578ca1060da9e72ebe2d6ad28ccc0598e5839835457c5.png)
-
-![Screenshot 2026-10-20 010245](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/a3bdfdb38dbd564061e26359e26fed4e6a432eeecf9f493d51c993d0509d67c1.png)
-
-![Screenshot 2026-10-20 011244](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/81b132e71caa307cc2f6c32f2a98143ca6c35e35457df8b984dbbd7b63606da6.png)
-
-![Screenshot 2026-10-20 023841](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/9c2b444ea69c8c2840bf0dc595847cbf19434fe8e0457f00b55f1c3247099e8c.png)
-
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/2056992134454aceb669fb5be2210557e96561de5b6d6136919567050506a05d.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/76d8bf6e-9c46-42ba-a372-888b520c1c2d/video.mp4)
 
