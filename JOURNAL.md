@@ -14,21 +14,15 @@
 
 ## Contents
 
-1. [2026-10-19 – Hi hackclub officials or re viewers , Here i was building my plan for the drumPad , selecting modules which will work or not and brainstormed through every connections and line of code ii need to use](#2026-10-19-hi-hackclub-officials-or-re-viewers-here-i-was-bu)
+1. [2026-10-19 – Work session](#2026-10-19-work-session)
 2. [2026-10-19 – Work session](#2026-10-19-work-session)
 3. [2026-10-20 – Work session](#2026-10-20-work-session)
 
 ## Design
 
-### 2026-10-19 – Hi hackclub officials or re viewers , Here i was building my plan for the drumPad , selecting modules which will work or not and brainstormed through every connections and line of code ii need to use
+### 2026-10-19 – Work session
 
 **0.55h**
-
-Hi hackclub officials or re viewers , Here i was building my plan for the drumPad , selecting modules which will work or not and brainstormed through every connections and line of code ii need to use this week.
-
-![Screenshot 2026-10-19 202740](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/75af7f0da57a79b3ff6e69398c2b4b50cb6b880fbac3fc739e712d7237f7799a.png)
-
-![Screenshot 2026-10-19 232613](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/5648003c57bc44b87e24655425854c02754670d75ef620de9ae13a92793cc34b.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/fe629d39-2085-4051-95e1-6758de565b3d/video.mp4)
 
