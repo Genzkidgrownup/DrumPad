@@ -98,7 +98,7 @@ Here is the screenshot when i realized that my network is disconnected
 
 ![image](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/716202356094bbc7fc985de21c79155beab2a21cd75e3457d68101100d3eb789.png)
 
-![image](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/f04ef477bcb7d14e2db14cc646f8798f4bbb47ac8e501f95163fad954e89fe2b.png)
+![image](https://halflife.hackclub-assets.com/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/24df0d92e0752e6e7d23950428c72d115644459195eeea4e484deef1934af446.png)
 
 In this 1.15hrs i was building a new hover up enclosure in my CAD file
 where i extruded the hover off parts with 3.2mm hole and outer diameter with 5mm so that my M3 screws fit easily and was planning to how to tilt the plate and place it
