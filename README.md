@@ -47,6 +47,10 @@
  
 ### REMEMBER THOSE PINS WHICH ARE NOT MENTIONED BELOW ARE NOT USED   
 
+### Hardware Notes & Audio Configuration  
+ 
+**MAX98357A SD Pin Note:** Depending on the specific amplifier breakout revision and channel configuration, the SD (Shutdown/Mode) pin state handles audio muting and mono/stereo selection. If you experience unexpected muting or background noise during testing, a jumper wire may be added to tie the SD pin directly to the 3.3V rail for stable active mono operation.
+
 **ESP32-S3 pins :**   
   
 >PAD1---->GPIO1  
